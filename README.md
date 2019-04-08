@@ -1,3 +1,3 @@
-# repository
-Test repo
-This is demo to learn commit/push
+# Deep Learning
+Repocitory for deep learing tutorials 
+Tensorflow - Python
